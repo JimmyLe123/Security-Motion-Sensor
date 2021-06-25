@@ -1,13 +1,3 @@
-/*
-* Name & E-mail: Jimmy Le jle071@ucr.edu
-* Lab Section: 23
-* Assignment: CS122A Project Milestone 1
-*
-* I acknowledge all content contained herein,excluding template or example code, is my own original work.
-* Source for motion sensor code: https://www.gadgetronicx.com/pir-motion-sensor-interface-with-avr/
-* Source for blue-tooth module: http://www.dsdtech-global.com/2017/08/hm-10.html
-*/
-
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include "usart_ATmega1284.h"
